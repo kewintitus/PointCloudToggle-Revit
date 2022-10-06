@@ -4,8 +4,11 @@ A Revit addin used to toggle point-cloud visibility
 
 ## General Description
 
-BIM 3D Modelling - 
-In 3D Modelling of Buildings for all Architectural, Structural and Mechanical services point clouds are given as an input to the modelers
+BIM 3D Modelling - \
+![pointcloudto-bim-model](https://user-images.githubusercontent.com/96645509/194323614-13745f39-3d5d-48e0-a961-bdd56ecbe671.jpg)
+
+In 3D Modelling of Buildings for all Architectural, Structural and Mechanical services point clouds are given as an input to the modelers\
+This Addin helps to model elements faster when toggling shortcut is used
 
 ## Installation details
 
