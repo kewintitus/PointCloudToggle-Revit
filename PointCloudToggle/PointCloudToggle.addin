@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>TogglePointCloud</Name>
+		<Assembly>C:\Users\kewintitus.a\source\repos\PointCloudToggle\PointCloudToggle\PointCloudToggle.dll</Assembly>
+		<AddInId>
+			BFF38870-9E14-468A-8A36-51613F78CAD8
+		</AddInId>
+		<FullClassName>PointCloudToggle.Class1</FullClassName>
+		<Text>TogglePointCloud</Text>
+		<Description>Toggles point cloud on or off</Description>
+		<VendorId>KT</VendorId>
+		<VendorDescription>KT</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>TogglePointCloudApp</Name>
+		<Assembly>C:\Users\kewintitus.a\source\repos\PointCloudToggle\PointCloudToggle\PointCloudToggle.dll</Assembly>
+		<AddInId>
+			35538A5F-DC75-4452-9B12-8E359120CFAA
+		</AddInId>
+		<FullClassName>PointCloudToggle.ExternalApp</FullClassName>
+		<VendorId>KT</VendorId>
+		<VendorDescription>KT</VendorDescription>
+	</AddIn>
+</RevitAddIns>
